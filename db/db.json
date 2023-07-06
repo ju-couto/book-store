@@ -1,0 +1,519 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "categoriesId": 1,
+      "image": "https://m.media-amazon.com/images/I/81iqZ2HHD-L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author": "J. K. Rowling",
+      "categoriesId": 1,
+      "image": "https://m.media-amazon.com/images/I/91OINeHnJGL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "author": "J. K. Rowling",
+      "categoriesId": 1,
+      "image": "https://m.media-amazon.com/images/I/81lAPl9Fl0L.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Looking for Alaska",
+      "author": "John Green",
+      "categoriesId": 2,
+      "image": "https://m.media-amazon.com/images/I/81JcLK2T8yL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "categoriesId": 7,
+      "image": "https://m.media-amazon.com/images/I/914h7ms4FXL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Silver Linings Playbook",
+      "author": "Matthew Quick",
+      "categoriesId": 7,
+      "image": "https://m.media-amazon.com/images/I/51dqHEDOcHL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Princesa Adormecida",
+      "author": "Paula Pimenta",
+      "categoriesId": 1,
+      "image": "https://m.media-amazon.com/images/I/81d7T+4O1tL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Mortal Instruments: City of Bones",
+      "author": "Cassandra Clare",
+      "categoriesId": 1,
+      "image": "https://m.media-amazon.com/images/I/81GvNdZqETL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "categoriesId": 2,
+      "image": "https://m.media-amazon.com/images/I/81a4kCNuH+L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Selection",
+      "author": "Kiera Cass",
+      "categoriesId": 2,
+      "image": "https://m.media-amazon.com/images/I/810I+gtUtwL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Le Petit Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "categoriesId": 5,
+      "image": "https://m.media-amazon.com/images/I/61NGp-UxolL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Let It Snow",
+      "author": "John Green",
+      "categoriesId": 2,
+      "image": "https://m.media-amazon.com/images/I/81JpsKPcugS._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Love Letters to the Dead",
+      "author": "Ava Dellaira",
+      "categoriesId": 2,
+      "image": "https://m.media-amazon.com/images/I/81DP6N-3vTL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Unhinged",
+      "author": "A. G. Howard",
+      "categoriesId": 1,
+      "image": "https://prodimage.images-bn.com/pimages/9781419713736_p0_v1_s1200x630.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Reconstructing Amelia",
+      "author": "Kimberly McCreight",
+      "categoriesId": 4,
+      "image": "https://m.media-amazon.com/images/I/61ghMtXGRjL.jpg"
+    },
+    {
+      "id": 16,
+      "title": "The Storied Life of A.J. Fikry",
+      "author": "Gabrielle Zevin",
+      "categoriesId": 7,
+      "image": "https://m.media-amazon.com/images/I/71oMQNFjdXL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 17,
+      "title": "A Beautiful Wedding",
+      "author": "Jamie McGuire",
+      "categoriesId": 2,
+      "image": "https://m.media-amazon.com/images/I/81dEvkUhyCL.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Coraline",
+      "author": "Neil Gaiman",
+      "categoriesId": 3,
+      "image": "https://m.media-amazon.com/images/I/71FvtJvTkRL._AC_UF1000,1000_QL80_.jpg"
+
+    },
+    {
+      "id": 19,
+      "title": "Paper Towns",
+      "author": "John Green",
+      "categoriesId": 2,
+      "image": "https://m.media-amazon.com/images/I/81WBJQUEFsL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Hush, Hush",
+      "author": "Becca Fitzpatrick",
+      "categoriesId": 1,
+      "image": "https://m.media-amazon.com/images/I/51ciH0evqCL.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Hate List",
+      "author": "Jennifer Brown",
+      "categoriesId": 4,
+      "image": "https://m.media-amazon.com/images/I/51CTPhb8wyL.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Crescendo",
+      "author": "Becca Fitzpatrick",
+      "categoriesId": 1,
+      "image":"https://m.media-amazon.com/images/I/61cx7z+-ZnL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Silence",
+      "author": "Becca Fitzpatrick",
+      "categoriesId": 1,
+      "image": "https://m.media-amazon.com/images/I/61L6-2vlfgL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Finale",
+      "author": "Becca Fitzpatrick",
+      "categoriesId": 1,
+      "image": "https://d28hgpri8am2if.cloudfront.net/book_images/cvr9781442426689_9781442426689_hr.jpg"
+    },
+    {
+      "id": 25,
+      "title": "An Abundance of Katherines",
+      "author": "John Green",
+      "categoriesId": 2,
+      "image": "https://m.media-amazon.com/images/I/81YCXBho4SL.jpg"
+    },
+    {
+      "id": 26,
+      "title": "The Maze of Bones",
+      "author": "Rick Riordan",
+      "categoriesId": 1,
+      "image":"https://m.media-amazon.com/images/I/61WfvsYrcPL.jpg"
+    },
+    {
+      "id": 27,
+      "title": "The Disreputable History of Frankie Landau-Banks",
+      "author": "E. Lockhart",
+      "categoriesId": 2,
+      "image":"https://m.media-amazon.com/images/I/51zaRAldj1L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 28,
+      "title": "One False Note",
+      "author": "Gordon Korman",
+      "categoriesId": 1,
+      "image":"https://m.media-amazon.com/images/I/614Blv+VrsL.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Wintergirls",
+      "author": "Laurie Halse Anderson",
+      "categoriesId": 4,
+      "image":"https://m.media-amazon.com/images/I/91vllSH8oUL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Branca dos Mortos e os Sete Zumbis",
+      "author": "Fábio Yabu",
+      "categoriesId": 1,
+      "image":"https://m.media-amazon.com/images/I/71Nv2oM0pFL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 31,
+      "title": "The Sword Thief",
+      "author": "Peter Lerangis",
+      "categoriesId": 1,
+      "image":"https://m.media-amazon.com/images/I/51j8+UUG8hL.jpg"
+    },
+    {
+      "id": 32,
+      "title": "Splintered",
+      "author": "A. G. Howard",
+      "categoriesId": 1,
+      "image": "https://m.media-amazon.com/images/I/51tjNU6JREL.jpg"
+    },
+    {
+      "id": 33,
+      "title": "Colin Fischer",
+      "author": "Ashley Edward Miller",
+      "categoriesId": 4,
+      "image": "https://m.media-amazon.com/images/I/81Z876ZChoL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 34,
+      "title": "Beyond the Grave",
+      "author": "Jude Watson",
+      "categoriesId": 1,
+      "image": "https://m.media-amazon.com/images/I/51M+z+ZkcEL.jpg"
+
+    },
+    {
+      "id": 35,
+      "title": "Me Before You",
+      "author": "Jojo Moyes",
+      "categoriesId": 2,
+      "image": "https://m.media-amazon.com/images/I/81JlzP8-FxL.jpg"
+
+    },
+    {
+      "id": 36,
+      "title": "Tell the Wolves I'm Home",
+      "author": "Carol Rifka Brunt",
+      "categoriesId": 7,
+      "image": "https://m.media-amazon.com/images/I/81VNTY4pBjL.jpg"
+
+    },
+    {
+      "id": 37,
+      "title": "Wonder",
+      "author": "R.J. Palacio",
+      "categoriesId": 7,
+      "image": "https://m.media-amazon.com/images/I/71AxayUvIHL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 38,
+      "title": "This Star won't go out",
+      "author": "Esther Earl",
+      "categoriesId": 10,
+      "image":"https://m.media-amazon.com/images/I/914iB0BanmL.jpg"
+    },
+    {
+      "id": 39,
+      "title": "Mosquitoland",
+      "author": "David Arnold",
+      "categoriesId": 7,
+      "image": "https://m.media-amazon.com/images/I/51glmDxPZpL._SX330_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 40,
+      "title": "The Heir",
+      "author": "Kiera Cass",
+      "categoriesId": 2,
+      "image":"https://m.media-amazon.com/images/I/51N6AtfdwnL.jpg"
+    },
+    {
+      "id": 41,
+      "title": "The Girl With a Clock for a Heart",
+      "author": "Peter Swanson",
+      "categoriesId": 4,
+      "image":"https://m.media-amazon.com/images/I/51VU9wQozaL.jpg"
+    },
+    {
+      "id": 42,
+      "title": "Beautiful Disaster",
+      "author": "Jamie McGuire",
+      "categoriesId": 2,
+      "image":"https://m.media-amazon.com/images/I/811syzHqj8L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 43,
+      "title": "Walking Disaster",
+      "author": "Jamie McGuire",
+      "categoriesId": 2,
+      "image":"https://m.media-amazon.com/images/I/71t4vy85z5L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 44,
+      "title": "Bicicletas e Tulipas",
+      "author": "Isadora Lenzi Michel",
+      "categoriesId": 10,
+      "image":"https://img.skoob.com.br/C8qLon2L-0KKXNRR0l09HIY3azM=/600x0/center/top/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/272718/BICICLETAS_E_TULIPAS_1350134674B.jpg"
+    },
+    {
+      "id": 45,
+      "title": "Ensnared",
+      "author": "A.G. Howard",
+      "categoriesId": 1,
+      "image":"https://m.media-amazon.com/images/I/81HHWN7U34L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 46,
+      "title": "The Maze Runner",
+      "author": "James Dashner",
+      "categoriesId": 1,
+      "image":"https://m.media-amazon.com/images/I/91IJ2rIOEDL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 47,
+      "title": "Mockingbird",
+      "author": "Kathryn Erskine",
+      "categoriesId": 2,
+      "image":"https://m.media-amazon.com/images/I/81jnO+rio2L.jpg"
+    },
+    {
+      "id": 48,
+      "title": "Furiosly Happy",
+      "author": "Jenny Lawson",
+      "categoriesId": 7,
+      "image":"https://m.media-amazon.com/images/I/71LL+ttV-VL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 49,
+      "title": "Nimona",
+      "author": "Noelle Stevenson",
+      "categoriesId": 9,
+      "image":"https://m.media-amazon.com/images/I/61UtVAFONSL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 50,
+      "title": "Miss Peregrine Home for Peculiar Children",
+      "author": "Ransom Riggs",
+      "categoriesId": 1,
+      "image":"https://m.media-amazon.com/images/I/71teSaE1vGL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 51,
+      "title": "Happily Ever After",
+      "author": "Kiera Cass",
+      "categoriesId": 2,
+      "image":"https://m.media-amazon.com/images/I/51On+eCi9lL.jpg"
+    },
+    {
+      "id": 52,
+      "title": "Thirtheen Reasons Why",
+      "author": "Jay Asher",
+      "categoriesId": 7,
+      "image":"https://m.media-amazon.com/images/I/81oPW2teyhL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 53,
+      "title": "Smoke Gets in Your Eyes",
+      "author": "Caitlin Doughty",
+      "categoriesId": 7,
+      "image":"https://m.media-amazon.com/images/I/711fGwmpnDL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 54,
+      "title": "The Inexplicable Logic of My Life",
+      "author": "Benjamin Alire Sáenz",
+      "categoriesId": 7,
+      "image":"https://m.media-amazon.com/images/I/81-3adF-cvL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 55,
+      "title": "The Crown",
+      "author": "Kiera Cass",
+      "categoriesId": 2,
+      "image": "https://m.media-amazon.com/images/I/81Sfo9CgTjL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 56,
+      "title": "I, Robot",
+      "author": "Isaac Asimov",
+      "categoriesId": 6,
+      "image":"https://m.media-amazon.com/images/I/912SgN89fHL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 57,
+      "title": "The Time Machine",
+      "author": "H.G. Wells",
+      "categoriesId": 6,
+      "image":"https://m.media-amazon.com/images/I/61ZPzLlTaCL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 58,
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "categoriesId": 6,
+      "image":"https://m.media-amazon.com/images/I/91Bx5ilP+EL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 59,
+      "title": "The Shining",
+      "author": "Stephen King",
+      "categoriesId": 3,
+      "image":"https://m.media-amazon.com/images/I/81QckmGleYL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 60,
+      "title": "Carrie",
+      "author": "Stephen King",
+      "categoriesId": 3,
+      "image":"https://m.media-amazon.com/images/I/916W3jMu+mL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 61,
+      "title": "Peter Pan",
+      "author": "J.M. Barrie",
+      "categoriesId": 5,
+      "image":"https://m.media-amazon.com/images/I/A1O4njXBebS._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 62,
+      "title": "The Cat in the Hat",
+      "author": "Dr. Seuss",
+      "categoriesId": 5,
+      "image":"https://m.media-amazon.com/images/I/81drfTT9ZfL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 63,
+      "title": "If You Give a Mouse a Cookie",
+      "author": "Laura Joffe Numeroff",
+      "categoriesId": 5,
+      "image":"https://m.media-amazon.com/images/I/813csV5cPqL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 64,
+      "title": "Call Us What We Carry",
+      "author": "Amanda Gorman",
+      "categoriesId": 8,
+      "image":"https://m.media-amazon.com/images/I/51amPbZFSBL.jpg"
+    },
+    {
+      "id": 65,
+      "title": "Pillow Thoughts",
+      "author": "Courtney Peppernell",
+      "categoriesId": 8,
+      "image":"https://m.media-amazon.com/images/I/71bUf4gWhnL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 66,
+      "title": "Home Body",
+      "author": "Rupi Kaur",
+      "categoriesId": 8,
+      "image":"https://m.media-amazon.com/images/I/81Az39+qhyL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 67,
+      "title": "Leaves of Grass",
+      "author": "Walt Whitman",
+      "categoriesId": 8,
+      "image":"https://m.media-amazon.com/images/I/71ZUAQQ-9IL.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Fantasy"
+    },
+    {
+      "id": 2,
+      "name": "Romance"
+    },
+    {
+      "id": 3,
+      "name": "Horror"
+    },
+    {
+      "id": 4,
+      "name": "Thriller"
+    },
+    {
+      "id": 5,
+      "name": "Children's"
+    },
+    {
+      "id": 6,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 7,
+      "name": "Drama"
+    },
+    {
+      "id": 8,
+      "name": "Poetry"
+    },
+    {
+      "id": 9,
+      "name": "Comics"
+    },
+    {
+      "id": 10,
+      "name": "Biography"
+    }
+  ]
+}
